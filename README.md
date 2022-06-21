@@ -1,12 +1,7 @@
 
 
 ### Hi there 👋
-
-<!--
-**miniatimat/miniatimat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<div>
+###<div>
 
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
      <iframe src="https://giphy.com/embed/1sgetPM00wWqJpVUTl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
@@ -15,6 +10,12 @@ Here are some ideas to get you started:
     <a href="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl">via GIPHY</a>
   </p>
 </div>
+
+<!--
+**miniatimat/miniatimat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
