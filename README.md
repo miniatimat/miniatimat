@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo Miniati</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [https://mercadont.vercel.app/home] (Mercadon't Libre) 
+- 🔭 I’m currently working on [**Mercadon't Libre**](https://mercadont.vercel.app/home)
 
 - 💬 Ask me about **React, Node, Express, Java, Python**
 
