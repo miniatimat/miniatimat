@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mateo Miniati</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Destiny 2 Scrim Maker**
-
-- 👨‍💻 All of my projects are available at [in progress](in progress)
+- 🔭 I’m currently working on [https://mercadont.vercel.app/home] (Mercadon't Libre) 
 
 - 💬 Ask me about **React, Node, Express, Java, Python**
 
 - 📫 How to reach me **miniatimat@gmail.com**
-
-- 📄 Know about my experiences [resumeLink](resumeLink)
 
 - ⚡ Fun fact **I have been a yacht captain who has participated in various races**
 
