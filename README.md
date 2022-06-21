@@ -1,3 +1,11 @@
+
+
+### Hi there 👋
+
+<!--
+**miniatimat/miniatimat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 <div>
 
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
@@ -6,14 +14,7 @@
   <p>
     <a href="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl">via GIPHY</a>
   </p>
-
-### Hi there 👋
-
-<!--
-**miniatimat/miniatimat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -23,4 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
