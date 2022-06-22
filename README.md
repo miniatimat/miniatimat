@@ -1,4 +1,4 @@
-<a href="https://github.com/miniatimat/miniatimat/blob/main/Background.jpg" target="blank"><img align="center" src="https://github.com/miniatimat/miniatimat/blob/main/Background.jpg" alt="mateominiati" height="30" width="40" /></a>
+<a href="https://github.com/miniatimat/miniatimat/blob/main/Background.jpg" target="blank"><img align="center" src="https://github.com/miniatimat/miniatimat/blob/main/Background.jpg" alt="mateominiati" width="100%" /></a>
 
 <h1 align="center">Hi 👋, I'm Mateo Miniati</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
